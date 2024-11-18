@@ -517,7 +517,7 @@ const useFocus = () => {
   }, [router.asPath])
 }
 ```
--[x] d)
+- [x] d)
 ```javascript
 function RouteChangeHandler() {
   const { events } = useRouter()
