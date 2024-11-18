@@ -11,7 +11,7 @@
 ### 1.1 Bases HTML et ARIA
 
 1. Quel attribut est essentiel pour rendre une image accessible dans Next.js ?
-- [ ] a) src
+- [x] a) src
 - [ ] b) alt
 - [ ] c) title
 - [ ] d) aria-label
