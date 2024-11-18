@@ -345,7 +345,7 @@ const handleClick = () => {
 ```javascript
 {error && <div className="error">{error}</div>}
 ```
-- [x] b)
+- [ ] b)
 ```javascript
 {error && (
   <div 
